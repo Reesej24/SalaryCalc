@@ -1,0 +1,1 @@
+While building the constructor code, I ran into an issue with calling the 'getInteger' method that I couldn't figure out, so I could not test that one. I was able to get the set/get method to run successfully. This was very similar to what we worked on in class. I would appreciate feedback on the constructor assignment, please. Thank you!
